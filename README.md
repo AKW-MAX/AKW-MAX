@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning the different programming languages ie HTML, CSS and JavaScript hoping to be perfect one day
 - 👯 I’m looking to collaborate with anyone who is passionate about coding and is patient since am a beginner 
-- 🤔 I’m looking for help with understand JavaScript at a deeper level
+- 🤔 I’m looking for help with understanding JavaScript at a deeper level
 
 - 📫 you can reach me at agneswanini066@gmail.com
 - 😄 
