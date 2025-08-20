@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with understanding JavaScript at a deeper level
 
 - 📫 you can reach me at agneswanini066@gmail.com
-- 😄 
-- ⚡ Fun fact: I am a crop doctor 😂 who is passionate about helping out small holder farmers make the best out of limites resources ✨
-Agronomy is my business
+
+- ⚡ Fun fact: I am a crop doctor 😂 who is passionate about helping out small holder farmers make the best out of limited resources ✨
+Agronomy is my business🌿
